@@ -1,2 +1,0 @@
-# Ball-thingy
-Ball game
